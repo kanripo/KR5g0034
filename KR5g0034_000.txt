@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:48:39.140304
+# -*- mode: mandoku-view -*-
 #+TITLE: 道門科範大全集
-#+PROPERTY: DZID  DZ1225
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，31—758 八十七卷 正一部
+#+DATE: 2015-08-29 02:49:10
+#+PROPERTY:  LASTPB <PB KR5g0034_SJB_087-310965a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶<md:KR5g0034_HFL_087-005b>¶¶¶¶¶¶¶¶¶¶¶
+
